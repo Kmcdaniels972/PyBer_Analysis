@@ -22,6 +22,7 @@ From the graphs you can see a trend where the closer you are to an Urban city or
 
 ### Box-and-Whisker Plots of Driver Count, Ride Count, and Ride Fare Data points
 Using box-whisker plot graph to discover any outliers in the data to aid the analysis and also clean the data. During the process an outlier was found among the Ride count data, the highest ride count was in West Angela which is an Urban city.
+
   <img src="https://user-images.githubusercontent.com/106792451/180712623-4768f3c0-8777-40f9-aca9-5cd9cf6a585b.png" width="408" height="264">
   <img src="https://user-images.githubusercontent.com/106792451/180712638-de51647f-349e-46ca-8e28-59d67f2dbd54.png" width="408" height="264">
   <img src="https://user-images.githubusercontent.com/106792451/180712648-77fd5d55-1e03-4d6a-99fe-07e7e98f4e8e.png" width="408" height="264">
